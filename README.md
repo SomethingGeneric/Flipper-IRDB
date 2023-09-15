@@ -88,3 +88,7 @@ Make, model, link, or even a short description can be helpful if the name is cha
 10. Disconnect the Flipper from the PC and have fun!
 
 NOTE: If you plan to copy them all, it's highly recommended to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly.
+
+
+# This project has moved:
+[GitLab Repository](https://gitlab.mattcompton.dev/matt/Flipper-IRDB)
